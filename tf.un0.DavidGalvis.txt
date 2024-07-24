@@ -1,2 +1,12 @@
 1.Un sistema de control de versiones es una herramienta que registra y gestiona cambios en archivos a lo largo del tiempo, permitiendo rastrear quién hizo qué modificación y revertir a versiones anteriores si es necesario. Es esencial para colaborar en proyectos y mantener un historial de cambios organizado y seguro.
 2.Un repositorio local reside en tu computadora y maneja versiones del proyecto localmente, mientras que un repositorio remoto está en un servidor y permite colaboración y respaldo compartido del código.
+3.Git:
+
+Es un sistema de control de versiones distribuido.
+Se utiliza localmente en tu computadora para gestionar versiones de archivos y proyectos.
+No requiere conexión a internet para funcionar.
+GitHub:
+
+Es una plataforma de alojamiento de repositorios Git en la nube.
+Permite colaboración en proyectos mediante funciones como pull requests, issues, y gestión de equipos.
+Proporciona funcionalidades adicionales como seguimiento de problemas, integración continua, y más.
