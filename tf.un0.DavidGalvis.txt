@@ -11,3 +11,6 @@ Es una plataforma de alojamiento de repositorios Git en la nube.
 Permite colaboración en proyectos mediante funciones como pull requests, issues, y gestión de equipos.
 Proporciona funcionalidades adicionales como seguimiento de problemas, integración continua, y más.
 4.El are de trabajo se trata de la carpeta que contiene el directorio .git del repositorio, el area de preparacion consiste en un area intermedeia de cambios y archivos para el proximo commit, y el directorio git es es el directorio que contiene todas las versiones de tu proyecto en la nube.
+5.
+Las ramas en Git se utilizan para desarrollar nuevas funcionalidades de forma separada de la rama principal, como master o main. Esto permite experimentar sin afectar el código estable, facilita la colaboración simultánea en diferentes partes del proyecto y proporciona un historial claro de cambios y versiones.
+
